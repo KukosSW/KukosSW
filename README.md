@@ -39,12 +39,19 @@
 <p>
   <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Debian-111111?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian" />
   <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
   <img src="https://img.shields.io/badge/DuckDB-111111?style=for-the-badge&logo=duckdb&logoColor=FFF000" alt="DuckDB" />
+</p>
+
+## Setup
+<p>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Debian-111111?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian" />
+  <img src="https://img.shields.io/badge/XFCE-111111?style=for-the-badge&logo=xfce&logoColor=2284F2" alt="XFCE" />
+  <img src="https://img.shields.io/badge/AMD-111111?style=for-the-badge&logo=amd&logoColor=ED1C24" alt="AMD" />
 </p>
 
 ## Job
