@@ -29,8 +29,10 @@
 ---
 
 ## About me
+
 - I am a software engineer with 10+ years of professional experience (started in 2016).
 - I specialize in C and C++ software engineering, mostly in the Telco domain.
+- In the era of Agent AI, I have started building tools with end-to-end responsibilities, and I am currently developing backends in Go.
 - I am passionate about automation, especially CI, scripting, and containerized workflows.
 - I am also a happy father, so I currently have less time for unpaid personal projects.
 - I focus on improving myself daily, with a strong emphasis on tech.
@@ -39,38 +41,60 @@
 <p>
   <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
   <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Podman-111111?style=for-the-badge&logo=podman&logoColor=892CA0" alt="Podman" />
   <img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
   <img src="https://img.shields.io/badge/DuckDB-111111?style=for-the-badge&logo=duckdb&logoColor=FFF000" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-111111?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/OpenSearch-111111?style=for-the-badge&logo=opensearch&logoColor=005EB8" alt="OpenSearch" />
 </p>
 
 ## Setup
+
+My current workstation
+
 <p>
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Debian-111111?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian" />
   <img src="https://img.shields.io/badge/XFCE-111111?style=for-the-badge&logo=xfce&logoColor=2284F2" alt="XFCE" />
+  <img src="https://img.shields.io/badge/BeeLink-111111?style=for-the-badge&logoColor=white" alt="BeeLink" />
   <img src="https://img.shields.io/badge/AMD-111111?style=for-the-badge&logo=amd&logoColor=ED1C24" alt="AMD" />
 </p>
 
-## Job
+## Full-time Job
+
 - **Role:** `5G (gNB) UPC UL Architect`
 - **Company:** `Tieto`
 - **Based in:** `Remote`
-- **Focus:** Designing new features, writing clean C code, and balancing readability with performance on embedded DSPs.
+- **Responsibility:** `Leading multiple teams as an architect to deliver business goals`
+- **Focus:**
+  - Designing new features
+  - Writing clean C code
+  - Balancing readability with performance on embedded DSPs
+  - Maintaining the health of the project through nightly tests and performance work
+  - Creating new AI agents to help other developers adopt AI
 
 ## Current Freelance Project
+
 - **Project:** `Log visualization and analytics platform`
-- **Current stack:** `Java 21 + SQLite3`
-- **Current status:** `Maintenance mode`
-- **Next version:** `Web/cloud solution with Go backend`
 - **Backend APIs:** `gRPC + REST`
-- **Data layer:** `DuckDB (columnar)`
-- **My role:** `Backend engineering`
-- **Focus:** Building query capabilities, statistics, and performance-oriented data processing.
+- **Data layer:** `DuckDB (columnar) + Redis + AWS S3`
+- **My role:** `One-man backend engineer`
+- **Responsibility:** `End-to-end backend development and deployment with Argo CD`
+- **Focus:**
+  - Golang backend development
+  - CI in GitLab
+  - Deployment with Argo CD
+  - Creating agents with Kiro
+  - Performance monitoring with Prometheus and OpenSearch
 
 ## Papers
+
 I hold a PhD and published research papers during my time at Wroclaw University of Science and Technology (Politechnika Wroclawska). Here are a few of them:
 
 - [Multi-core Adaptive Merging of the Secondary Index for LSM-Based Stores](https://link.springer.com/chapter/10.1007/978-3-031-39821-6_20) - 2023 - Wojciech Macyna, Michal Kukowski, Michal Zwarzko
