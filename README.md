@@ -93,6 +93,25 @@ My current workstation
   - Creating agents with Kiro
   - Performance monitoring with Prometheus and OpenSearch
 
+
+## Github Overview
+
+Most of my paid work is done in contractor-managed environments, usually on GitLab or Gerrit, so this chart covers only the languages used in my personal projects on GitHub.
+
+This is not a perfect view of my current skills. For example, I am now deeply focused on Go and backend engineering, but the chart is still a good summary of what I used most in my personal projects before fatherhood reduced the time I could spend on them.
+
+```text
+C++                [██████████████░░░░░░░░░░░]  55.9%       108927 LoC
+C                  [█████████░░░░░░░░░░░░░░░░]  35.0%        79581 LoC
+bash               [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.8%        11619 LoC
+Makefile           [█░░░░░░░░░░░░░░░░░░░░░░░░]   2.3%         7947 LoC
+TeX                [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.9%         1341 LoC
+Yacc               [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.6%         1106 LoC
+Lex                [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.2%          345 LoC
+CMake              [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.1%          246 LoC
+Assembly           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.0%           12 LoC
+```
+
 ## Papers
 
 I hold a PhD and published research papers during my time at Wroclaw University of Science and Technology (Politechnika Wroclawska). Here are a few of them:
