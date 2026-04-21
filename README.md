@@ -56,8 +56,6 @@
 
 ## Setup
 
-My current workstation
-
 <p>
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Debian-111111?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian" />
@@ -65,6 +63,29 @@ My current workstation
   <img src="https://img.shields.io/badge/BeeLink-111111?style=for-the-badge&logoColor=white" alt="BeeLink" />
   <img src="https://img.shields.io/badge/AMD-111111?style=for-the-badge&logo=amd&logoColor=ED1C24" alt="AMD" />
 </p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <details>
+        <summary>Workstation</summary>
+        <br />
+        <p>
+          <img src="./data/out/fastfetch/workstation-fastfetch.svg" alt="Fastfetch preview of my workstation" />
+        </p>
+      </details>
+    </td>
+    <td valign="top" width="50%">
+      <details>
+        <summary>Gaming PC</summary>
+        <br />
+        <p>
+          <img src="./data/out/fastfetch/windows-fastfetch.svg" alt="Fastfetch preview of my gaming PC" />
+        </p>
+      </details>
+    </td>
+  </tr>
+</table>
 
 ## Full-time Job
 
