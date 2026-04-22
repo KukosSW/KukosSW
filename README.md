@@ -56,19 +56,19 @@
 
 ## Setup
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Debian-111111?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian" />
-  <img src="https://img.shields.io/badge/XFCE-111111?style=for-the-badge&logo=xfce&logoColor=2284F2" alt="XFCE" />
-  <img src="https://img.shields.io/badge/BeeLink-111111?style=for-the-badge&logoColor=white" alt="BeeLink" />
-  <img src="https://img.shields.io/badge/AMD-111111?style=for-the-badge&logo=amd&logoColor=ED1C24" alt="AMD" />
-</p>
-
 <table>
   <tr>
     <td valign="top" width="50%">
+      <p><strong>Workstation</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+        <img src="https://img.shields.io/badge/Debian-111111?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian" />
+        <img src="https://img.shields.io/badge/XFCE-111111?style=for-the-badge&logo=xfce&logoColor=2284F2" alt="XFCE" />
+        <img src="https://img.shields.io/badge/BeeLink-111111?style=for-the-badge&logoColor=white" alt="BeeLink" />
+        <img src="https://img.shields.io/badge/AMD-111111?style=for-the-badge&logo=amd&logoColor=ED1C24" alt="AMD" />
+      </p>
       <details>
-        <summary>Workstation</summary>
+        <summary>fastfetch</summary>
         <br />
         <p>
           <img src="./data/out/fastfetch/workstation-fastfetch.svg" alt="Fastfetch preview of my workstation" />
@@ -76,8 +76,18 @@
       </details>
     </td>
     <td valign="top" width="50%">
+      <p><strong>Gaming PC</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwQTRFRiIgZD0iTTEgMy41IDEwLjUgMnY5SDF6bTExLjUtMS42OEwyMyAwdjExaC0xMC41ek0xIDEyLjVoOS41djlMMSAyMHptMTEuNSAwSDIzdjExbC0xMC41LTEuNXoiLz48L3N2Zz4=" alt="Windows" />
+        <img src="https://img.shields.io/badge/ASUS-111111?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS" />
+        <img src="https://img.shields.io/badge/Intel-111111?style=for-the-badge&logo=intel&logoColor=0071C5" alt="Intel" />
+        <img src="https://img.shields.io/badge/NVIDIA-111111?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="NVIDIA" />
+        <img src="https://img.shields.io/badge/GlazeWM-111111?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4OCA5NCI+PG1hc2sgaWQ9ImEiIHN0eWxlPSJtYXNrLXR5cGU6YWxwaGEiIG1hc2tVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjQiIHdpZHRoPSI4OCIgaGVpZ2h0PSI4OSI+PHBhdGggZD0iTTc4LjQxNyA0Ljk5NTA5SDkuMjI1NTNDNC4xMzA0MSA0Ljk5NTA5IDAgOS4xMDA5NiAwIDE0LjE2NThWODIuOTQ2M0MwIDg4LjAxMTIgNC4xMzA0MSA5Mi4xMTcgOS4yMjU1MyA5Mi4xMTdINzguNDE3QzgzLjUxMjEgOTIuMTE3IDg3LjY0MjYgODguMDExMiA4Ny42NDI2IDgyLjk0NjNWMTQuMTY1OEM4Ny42NDI2IDkuMTAwOTYgODMuNTEyMSA0Ljk5NTA5IDc4LjQxNyA0Ljk5NTA5WiIgZmlsbD0iI0Q5RDlEOSIvPjwvbWFzaz48ZyBtYXNrPSJ1cmwoI2EpIj48cGF0aCBkPSJNMCA0Ljk5NTA5SDM5LjIwODVWMzIuNTA3M0MzOS4yMDg1IDMzLjc3MzUgMzguMTc1OSAzNC43OTk5IDM2LjkwMjEgMzQuNzk5OUgwVjQuOTk1MDlaIiBmaWxsPSIjRkI1MTQxIi8+PHBhdGggZD0iTTAgNDEuNjc4SDM2LjkwMjFDMzguMTc1OSA0MS42NzggMzkuMjA4NSA0Mi43MDQ0IDM5LjIwODUgNDMuOTcwN1Y5Mi4xMTdIMFY0MS42NzhaIiBmaWxsPSIjOTREMkJEIi8+PHBhdGggZD0iTTQ2LjEyNSA2NC42MDQ4QzQ2LjEyNSA2My4zMzg2IDQ3LjE1NzYgNjIuMzEyMSA0OC40MzE0IDYyLjMxMjFIODcuNjM5OVY5Mi4xMTdINDYuMTI1VjY0LjYwNDhaIiBmaWxsPSIjMDA1RjczIi8+PHBhdGggZD0iTTQ2LjEyNSA0Ljk5NTA5SDg3LjYzOTlWNTUuNDM0MUg0OC40MzE0QzQ3LjE1NzYgNTUuNDM0MSA0Ni4xMjUgNTQuNDA3NiA0Ni4xMjUgNTMuMTQxNFY0Ljk5NTA5WiIgZmlsbD0iI0ZGQkQ0MSIvPjwvZz48L3N2Zz4=" alt="GlazeWM" />
+        <img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+        <img src="https://img.shields.io/badge/GOG-111111?style=for-the-badge&logo=gogdotcom&logoColor=white" alt="GOG" />
+      </p>
       <details>
-        <summary>Gaming PC</summary>
+        <summary>fastfetch</summary>
         <br />
         <p>
           <img src="./data/out/fastfetch/windows-fastfetch.svg" alt="Fastfetch preview of my gaming PC" />
